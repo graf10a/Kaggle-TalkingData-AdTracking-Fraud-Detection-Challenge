@@ -8,5 +8,5 @@ The repository contains a Python script for predicting whether a user will downl
 
 The repository contains the following files:
 
-'AdTracking.R' -- the Python script file.
+'AdTracking.py' -- the Python script file.
 'README.md' -- this file.
